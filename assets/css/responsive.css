@@ -1,0 +1,411 @@
+@media screen and (max-width: 1440px) {}
+
+@media screen and (max-width: 1024px) {
+
+    .btn_img {
+
+        right: -35%;
+        bottom: -60%;
+    }
+
+    .right_content_hero img {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 992px) {}
+
+@media screen and (max-width: 768px) {
+
+    .navbar-light .navbar-toggler {
+
+        border-radius: 10px;
+        background: var(--Linear, linear-gradient(90deg, #B16DEA 0%, #FB5E71 51.72%, #FDA24E 100%));
+
+    }
+
+    .web_img_group {
+
+        flex-wrap: wrap;
+        width: 100%;
+        gap: 130px;
+    }
+
+    .email_img_group {
+
+        flex-wrap: wrap;
+        width: 100%;
+        gap: 130px;
+    }
+
+    .mobile_apps_img {
+
+        flex-wrap: wrap;
+        gap: 100px;
+    }
+
+    .right_content_hero {
+        margin-top: 30px;
+        /* background-image: url(../images/mble_bg_img.png); */
+
+    }
+
+
+    .sub_right {
+        margin-top: 30px;
+    }
+
+    .left_content h2 {
+
+        margin-top: 120px;
+        font-size: 35px;
+
+    }
+
+    .img_group {
+        display: flex;
+        align-items: center;
+    }
+
+    .work_process_img {
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+
+    .group_list {
+
+        font-size: 30px;
+    }
+
+    .clark_content h1 {
+
+        padding-left: 20px;
+    }
+
+    .clark_content {
+        text-align: center;
+
+    }
+}
+
+
+@media screen and (max-width: 425px) {
+
+    .navbar {
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+        background-color: #F8FBFB!important;
+    }
+
+
+    .section_head h1 {
+        font-size: 35px;
+        margin-top: 70px;
+
+
+    }
+
+    .btn_img {
+        right: 10%;
+        bottom: -350%;
+    }
+
+    .email_img_group {
+
+        flex-wrap: wrap;
+        width: 100%;
+
+    }
+
+    .dev_left_img img {
+        height: 100%;
+        width: 100%;
+    }
+
+    .dev_right_side h1 {
+        font-size: 30px;
+        margin-top: 20px;
+    }
+
+    .dev_right_side span {
+
+        font-size: 20px;
+        font-weight: 600;
+
+    }
+
+    .dev_right_side p.para {
+        width: 331px;
+        font-size: 14px;
+
+    }
+
+    .mobile_apps_img {
+
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .web_img_group {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+
+    .my_works h1 {
+
+        font-size: 40px;
+        font-weight: 500;
+    }
+
+    .web h2 {
+        margin-top: 50px;
+
+        margin-bottom: 30px;
+    }
+
+    .email h2 {
+        margin-top: 80px;
+        margin-bottom: 20px;
+        font-size: 32px;
+    }
+
+
+    .sub_right {
+
+        flex-wrap: wrap;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .btn_group {
+
+        gap: 15px;
+
+        justify-content: center;
+
+    }
+
+    .clark_content img {
+        width: 100%;
+    }
+
+    .clark_content h1 {
+
+        font-size: 38px;
+    }
+
+    .lorem_text p {
+        font-size: 14px;
+        line-height: 150%;
+        margin-top: 25px;
+    }
+    .left_content p {
+   
+        font-size: 14px;
+        line-height: 150%;
+
+    }
+
+#developer {
+    padding-top: 52px;
+  
+}
+    .project_details_btn_group {
+
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .code_btn a {
+        padding: 14px 125px;
+        margin-top: 10px;
+    }
+
+    .footer_bottom .p {
+        position: fixed;
+    }
+
+    .launch_btn button {
+        /* width: 100%; */
+        height: 50px;
+        padding: 50px 80px;
+    }
+
+    .btn_group button {
+
+        font-size: 14px;
+        width: 180px;
+        height: 60px;
+
+    }
+
+    /* .btn_img {
+          
+            right: 4%;
+            bottom: -190%;
+        } */
+
+    .dev_right_side .card-body {
+        padding-right: 14px;
+        /* gap: 40px; */
+
+    }
+
+    .pera_section {
+
+        font-size: 10px;
+    }
+
+    .card {
+
+        margin-bottom: -161px;
+    }
+
+    .sub_left h1 {
+
+        font-size: 35px;
+        padding-left: 30px;
+    }
+
+    .sub_left p {
+
+        font-size: 14px;
+        line-height: 172%;
+        margin-top: 20px;
+        padding-left: 30px;
+    }
+
+    .section_padding {
+        padding-top: 10px;
+    }
+
+    .my_works h1 {
+        margin-top: 49px;
+        margin-bottom: 30px;
+
+    }
+
+    .dev_right_side .card-body span {
+        margin-top: 7px;
+        font-size: 10px;
+        line-height: 143%;
+    
+    }
+    #contact {
+        font-size: 12px;
+    }
+
+    .email_section{
+        padding-bottom: 30px!important;
+    }
+    .section_head h1 {
+        margin-bottom: 5px;
+    }
+
+    .card-title {
+        margin-bottom: 0.3rem;
+        font-size: 16px;
+    }
+
+
+    /* na code*/
+
+    .work_process_img {
+        width: 85%;
+        margin-left: auto;
+        height: 185px;
+    }
+
+    .outer_box {
+        top: 50%;
+        left: -10%;
+        transform: translateY(-50%);
+    }
+
+    .work_process_img_item.text-center {
+        display: flex;
+        gap: 50px;
+        align-items: center;
+    }
+
+    .work_process_img_item p {
+        font-size: 14px;
+    }
+
+
+
+/* na code*/
+
+
+
+/* dh code */
+
+.img_group img {
+    width: 119px;
+    height: 22px;
+}
+
+.img_group img:nth-child(3) {
+    width: 58px;
+    height: 14px;
+}
+
+.img_group span {
+    padding-left: 0px;
+    font-size: 12px;
+}
+
+.right_content_hero img {
+    width: 100%;
+}
+
+.btn_group button a {
+    font-size: 14px;
+}
+
+.footer_list ul {
+
+    padding-right: 37px;
+}
+
+.left_footer_text {
+    padding-left: 53px;
+       font-size: 11px;
+       position: absolute;
+       margin-top: 49px; 
+   
+}
+
+    
+.right_footer_text{
+    font-size: 11px;
+
+}
+
+
+.footer_bottom {
+
+    position: relative;
+    padding-left: 60px;
+}
+ .home_section{
+    padding-bottom: 7px!important;
+ }
+
+ .clark_content p {
+    font-size: 14px;
+}
+.dev_right_side {
+     padding-left: 0; 
+}
+
+}
+
+
