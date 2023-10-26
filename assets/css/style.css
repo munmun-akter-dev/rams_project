@@ -925,7 +925,7 @@ a {
   color: #fff;
 }
 
-.group_list {
+.group_list li {
   color: #000;
   font-family: Space Grotesk;
   font-size: 20px;
