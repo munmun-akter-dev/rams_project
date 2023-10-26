@@ -363,7 +363,7 @@
 }
 
 .right_content_hero img {
-    width: 100%;
+    /* width: 100%; */
 }
 
 .btn_group button a {
@@ -403,9 +403,23 @@
     font-size: 14px;
 }
 .dev_right_side {
-     padding-left: 0; 
+     /* padding-left: 0;  */
 }
 
 }
 
+@media screen and (max-width: 376px) {
+    .btn_group button {
+        font-size: 13px;
+        width: 156px;
+        height: 59px;
+    }
+
+    .btn.btn-primary {
+       
+        font-size: 12px;
+       
+    
+}
+}
 

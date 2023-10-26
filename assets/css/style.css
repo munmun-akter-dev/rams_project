@@ -317,7 +317,7 @@ a {
   width: 250px;
   height: 60px;
   flex-shrink: 0;
-  padding: 20px 10px;
+  padding: 16px 10px;
 }
 
 .btn_group button a {
@@ -348,13 +348,13 @@ a {
 }
 
 .dev_left_img img {
-  height: 720px;
+  height: 100%;
   flex-shrink: 0;
   border-radius: 20px;
 }
 
 .dev_right_side {
-  padding-left: 31px;
+  padding-left: 20px;
 }
 
 .dev_right_side span {
